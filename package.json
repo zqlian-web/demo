@@ -1,0 +1,23 @@
+{
+  "name": "@zqlianweb/demo",
+  "version": "1.0.0",
+  "description": "zqlian demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zqlian-web/demo.git"
+  },
+  "keywords": [
+    "zqlian",
+    "demo"
+  ],
+  "author": "zqlian.wuyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zqlian-web/demo/issues"
+  },
+  "homepage": "https://github.com/zqlian-web/demo#readme"
+}
